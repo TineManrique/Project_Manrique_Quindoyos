@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1360664176 source:c:\users\christine\desktop\manrique_quindoyos\project.cpp
+	<iostream>
+	<fstream>
+	<math.h>
+	"Project.h"
+
+1360665918 c:\users\christine\desktop\manrique_quindoyos\project.h
+
+1360664149 source:c:\users\christine\desktop\manrique_quindoyos\main.cpp
+	<iostream>
+	<cstdlib>
+	"Project.h"
+
+1360682890 source:c:\users\christine\desktop\program\manrique_quindoyos\main.cpp
+	<iostream>
+	<cstdlib>
+	"Project.h"
+
+1360665918 c:\users\christine\desktop\program\manrique_quindoyos\project.h
+
+1360598730 source:c:\users\christine\desktop\program\manrique_quindoyos\project.cpp
+	<iostream>
+	"Project.h"
+
+1360679290 source:c:\users\akram\desktop\manrique_quindoyos\main.cpp
+	<iostream>
+	<cstdlib>
+	"Project.h"
+
+1360923634 c:\users\akram\desktop\manrique_quindoyos\project.h
+
+1363944048 source:c:\users\akram\desktop\manrique_quindoyos\manrique_quindoyos\main.cpp
+	<iostream>
+	<cstdlib>
+	"Project.h"
+
+1363943691 c:\users\akram\desktop\manrique_quindoyos\manrique_quindoyos\project.h
+	<vector>
+
+1363943691 source:c:\users\akram\desktop\manrique_quindoyos\manrique_quindoyos\project.cpp
+	<algorithm>
+	<iostream>
+	<fstream>
+	<sstream>
+	<math.h>
+	<stdio.h>
+	<vector>
+	<string.h>
+	"Project.h"
+
+1363949253 source:c:\users\christine\downloads\mama\main.cpp
+	<iostream>
+	<cstdlib>
+	"Project.h"
+
+1363949168 c:\users\christine\downloads\mama\project.h
+	<vector>
+
+1363949718 source:c:\users\christine\downloads\mama\project.cpp
+	<algorithm>
+	<iostream>
+	<fstream>
+	<sstream>
+	<math.h>
+	<stdio.h>
+	<vector>
+	<string.h>
+	"Project.h"
+
+1363949757 source:c:\users\christine\desktop\program\project_manrique_quindoyos\main.cpp
+	<iostream>
+	<cstdlib>
+	"Project.h"
+
+1363949168 c:\users\christine\desktop\program\project_manrique_quindoyos\project.h
+	<vector>
+
+1363949718 source:c:\users\christine\desktop\program\project_manrique_quindoyos\project.cpp
+	<algorithm>
+	<iostream>
+	<fstream>
+	<sstream>
+	<math.h>
+	<stdio.h>
+	<vector>
+	<string.h>
+	"Project.h"
+
